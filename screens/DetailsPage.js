@@ -1,4 +1,4 @@
-import React, { useEffect, useState, Component } from 'react';
+import React, { useEffect, useState } from 'react';
 import {ScrollView, StyleSheet, ActivityIndicator, View, Text, FlatList, Image, TouchableOpacity, Button, Linking} from 'react-native';
 
 function DetailsPage( { route , navigation}) {
