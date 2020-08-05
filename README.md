@@ -1,4 +1,4 @@
-# ReactSeals-Developer-Assignment
+# ReactNative Movie Browser
 
 This is my first project built with React Native. It was developed for Android and wasn't tested for iOS. 
 
